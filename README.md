@@ -9,7 +9,8 @@
 ## Dentro das minhas experiências proficionais, destaco:
 
 <li>🗺️ Mapa da Violência (Institudo Glória)
-<li>🚀 Estagiária na Defensoria Pública do Distrito Federal 
+<li>🚀 Estagiária na Defensoria Pública do Distrito Federal
+<li>🏢 Estagiária no Tribunal de Contas da União
 
 ## Você pode se comunicar comigo em:
 <li>🇧🇷 Português
