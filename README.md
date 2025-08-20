@@ -3,7 +3,7 @@
 
 ## Sobre mim 
 <li>✨ Me chamo <strong>Beatriz</strong>, mas pode chamar de <strong>Bia</strong>!
-<li>💻 Sou desenvolvedora web full stack com ênfase em React e Java Script.
+<li>💻 Sou desenvolvedora web full stack.
 <li>🎓 E também sou <strong>engenheira de software</strong> em formação!
 
 ## Dentro das minhas experiências proficionais, destaco:
